@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Nota{
+public class Media{
   public static void main(String[] args) {
     Scanner n1 = new Scanner(System.in);
     double nota;
